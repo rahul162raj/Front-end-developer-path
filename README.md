@@ -13,7 +13,7 @@ Interview Questions :clipboard:
 * https://www.javatpoint.com/html-interview-questions
  
 Last Minute Cheetsheet :hourglass_flowing_sand:
-* https://www.w3schools.com/html/
+* https://github.com/rahul162raj/Front-end-developer-path/blob/main/Notes/Html/HTML5%20Cheatsheet.jpg
 <br/> 
 
 ### :blue_book: CSS  
@@ -28,7 +28,7 @@ Interview Questions :clipboard:
 * https://www.softwaretestinghelp.com/css-interview-questions/
  
 Last Minute Cheetsheet :hourglass_flowing_sand:
-* https://www.w3schools.com/html/
+* https://github.com/rahul162raj/Front-end-developer-path/blob/main/Notes/Css/CSS3%20Cheatsheet.png
 
 Coding Questions :computer:
 * https://www.fullstack.cafe/blog/13-tricky-css-interview-questions-and-answers-in-2018
@@ -51,7 +51,7 @@ Interview Questions :clipboard:
 * https://www.mygreatlearning.com/blog/top-90-javascript-interview-questions/
  
 Last Minute Cheetsheet :hourglass_flowing_sand:
-* https://www.w3schools.com/html/
+* https://github.com/rahul162raj/Front-end-developer-path/tree/main/Notes/Javascript/Quick%20Notes
 
 Coding Questions :computer:
 * https://www.programiz.com/javascript/examples
@@ -72,14 +72,14 @@ Mock Interview :surfer:
 Refresh your skills :swimmer:
 * https://angular.io/docs
 
-Work on sample projects :swimmer:
+Work on sample projects :bicyclist:
 * https://github.com/rahul162raj/angular-notepad-classic
 
 Interview Questions :clipboard:
 * https://www.interviewbit.com/angular-interview-questions/
  
 Last Minute Cheetsheet :hourglass_flowing_sand:
-* https://www.w3schools.com/html/
+* https://github.com/rahul162raj/Front-end-developer-path/tree/main/Notes/Angular
 
 
 
