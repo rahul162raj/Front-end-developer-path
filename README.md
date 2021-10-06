@@ -1,4 +1,4 @@
-# :mortar_board: Frontend Developer Preparation
+# :mortar_board: Frontend Developer
 <br/> 
 
 ### :blue_book: HTML    
@@ -64,6 +64,22 @@ Tricky Questions :bulb:
 Mock Interview :surfer:
 * https://www.youtube.com/watch?v=OOC-ypVnHAY&list=PL7pEw9n3GkoVxJHpxClc-zPUKFRuY8XJ3&index=1
 
+<br/> 
+
+### :blue_book: Angular 
+<br/> 
+  
+Refresh your skills :swimmer:
+* https://angular.io/docs
+
+Work on sample projects :swimmer:
+* https://github.com/rahul162raj/angular-notepad-classic
+
+Interview Questions :clipboard:
+* https://www.interviewbit.com/angular-interview-questions/
+ 
+Last Minute Cheetsheet :hourglass_flowing_sand:
+* https://www.w3schools.com/html/
 
 
 
